@@ -1,5 +1,5 @@
-# **MAKING EXECUTSBLE SHELL SCRIPTS**
-#### **Writing shell script that are excutable** ####
+# ** MAKING EXECUTSBLE SHELL SCRIPTS **
+#### ** Writing shell script that are excutable ** ####
 1. Clone this repo 
 2. Change directory to 0x00-shell_basics 
 3. Give excutable permissions to the files you 
